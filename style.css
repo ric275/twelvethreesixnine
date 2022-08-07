@@ -1,0 +1,95 @@
+body {
+  background-color: #fc79d1;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+h1 {
+  color: white;
+  margin-top: 40px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+h2 {
+  color: red;
+}
+
+li {
+  color: white;
+  margin-left: 60px;
+  margin-bottom: 12px;
+}
+
+footer {
+  text-align: center;
+  margin-bottom: 30px
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: white;
+  font-style: italic;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: pink;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.intro {
+  text-align: center;
+  letter-spacing: 5px;
+  line-height: 4;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Garamond";
+  padding: 200px;
+}
+
+.year {
+  margin-left: 50px;
+  color: beige;
+}
+
+.year_80s {
+  margin-left: 50px;
+  color: beige;
+}
+
+.year_90s {
+  margin-left: 50px;
+  color: blue;
+}
+
+.lines {
+  height: 2px;
+  width: 90%;
+  border-width: 0;
+  color: white;
+  background-color: white;
+}
+
+.topTitle {
+  color: white;
+  font-size: 2.5em;
+  text-align: center;
+  padding: 20px;
+  font-family: "Gill Sans";
+}
